@@ -64,11 +64,11 @@ function App() {
                 </button>
               </div>
 
-              <div className=" flex flex-1 items-center md:justify-between justify-end sm:items-stretch ">
-                <div className="flex flex-shrink-0 items-center ">
+              <div className=" flex flex-1 items-center md:justify-between justify-end sm:items-stretch">
+                <div className="flex flex-shrink-0 items-center ms-8">
                   {/* Logo */}
                   <img
-                    className="h-8 w-auto"
+                    className="h-6 w-auto"
                     src="/images/irembo-gov.svg"
                     alt="Your Company"
                   />
