@@ -68,7 +68,7 @@ function App() {
                 <div className="flex flex-shrink-0 items-center ms-8">
                   {/* Logo */}
                   <img
-                    className="h-6 w-auto"
+                    className="h-6 w-auto "
                     src="/images/irembo-gov.svg"
                     alt="Your Company"
                   />
